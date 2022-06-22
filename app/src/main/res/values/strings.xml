@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="something_went_wrong_label">Something went wrong…</string>
+    <string name="check_internet_connection_label">Check your internet connection and try again</string>
+    <string name="dots_divider">\:\ </string>
+    <string name="users_label">Users:</string>
+    <string name="try_again_button_label">Try Again</string>
+    <string name="try_again_button_description">Refresh users button</string>
+    <string name="loading_label">Loading…</string>
+    <string name="name_label">name</string>
+    <string name="age_label">age</string>
+    <string name="genre_label">sex</string>
+    <string name="country_label">country</string>
+    <string name="space_divider">\ \</string>
+</resources>

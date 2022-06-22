@@ -1,0 +1,11 @@
+{
+    "status": "success",
+    "data": {
+        "id": "6b7fbff2-c489-4a82-b86f-66b8fc1674a4",
+        "firstName": "Larry",
+        "lastName": "Smith",
+        "age": 23,
+        "gender": "Female",
+        "country": "India"
+    }
+}
